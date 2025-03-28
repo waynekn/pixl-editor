@@ -4,7 +4,7 @@ A simple pixel art editor built with Go and Fyne. Create, edit, and save pixel a
 
 ## FEATURES
 
-- ✅ Panning and zooming for easy navigation
-- ✅ Paint individual pixels with customizable colors
-- ✅ Save images locally
-- ✅ Load and edit existing images
+- Panning and zooming for easy navigation ✅
+- Paint individual pixels with customizable colors ✅
+- Save images locally ✅
+- Load and edit existing images ✅
